@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Boogaloo|Libre+Baskerville');
+body {
+  background-color: #e5ccff;
+  color:#1d6347;
+font-family: 'Boogaloo', cursive;
+  text-align: left;
+  border: 180px;
+}
+
+
+h1 {
+  text-transform: lowercase;
+  text-align: center;
+font-family: 'Libre Baskerville', serif;
+  color: #39c68e;
+}
+
+h2 {
+text-transform: capitalize;
+  text-align: center;
+  font-size: 24px;
+  font-style: italic;
+}
+
+hr {
+  border: 4px solid #1d6347;
+  max-width: 80px;
+  margin: 40px auto;
+}
+#firstList {
+  background-color: #39c68e;
+}
+.cute {
+  color: pink;
+}
+
+.Cat {
+  color: yellow;
+}
+
+.reptile {
+  color: black;
+}
+.bird {
+color: orange;}
+
+.fish {
+  color: purple;
+}
+
+li {display: inline-block;
+}
+
+.Cat {padding:30px; }
+
+.reptile {margin: 20px; }
+
+.fish {margin-top: 40px;}
+
+.Snakes {padding-bottom: 500px;}
+
+.bird {margin: 40px;}
+
+birds:hover {
+  font-weight: bold;
+  color: red;
+}
